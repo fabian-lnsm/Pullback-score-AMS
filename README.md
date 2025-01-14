@@ -1,17 +1,7 @@
 # Project description
-
-### AMS
-The starting point of the project are the rare-event algorithms AMS/TAMS in their application to conceptual ocean models. 
-These rare-event algorithms rely on the choice of a score function, which quantifies the proximity to the target set for a given trajectory. References can be found below.
-
-### Pullback attractor
-Non-autonomous models are dynamical systems with explicit time-dependence. Here, attractors are replaced by Forward and Pullback attractors.
-The pullback attractor, in particular, is the area all trajectories starting at $t_0 \to \infty$ converge to. \
-As such, it holds promise as a score function for AMS. In the project, we constructed a score function based on the Pullback attractor, implemented it in AMS and applied to the toy model of the time-dependent Double-Well potential.
+See the [project report](Pullback-Score-AMS.pdf).
 
 # Repository structure
-The main folder contains the project report as a pdf.
-
 All python scripts can be found in the *scripts* folder:
 + *DoubleWell_model.py* sets up the model, calculates the pullback and implements the integration scheme.
 + It is called by *AMS.py* and *MC.py* which run the AMS-algorithm and straight-up Monte-Carlo simulations, respectively.
