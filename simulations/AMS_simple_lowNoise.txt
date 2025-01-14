@@ -1,0 +1,37 @@
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: Simple x-score & clip_onzone = False 
+Runtime: 2755.726354899998
+Initial state: [ 2.         -0.96853005]
+Probability: 0.003480571305433844 +/- 0.00014829266585174715
+Iterations: 545.1 +/- 4.0897818755373345
+Transitions: 9952.65 +/- 28.67471837148903
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: Simple x-score & clip_onzone = False 
+Runtime: 1983.2938357000003
+Initial state: [ 4.         -0.93351693]
+Probability: 0.01324269703408798 +/- 0.0004156220491851182
+Iterations: 415.65 +/- 2.888725816360089
+Transitions: 9955.0 +/- 33.94577719648917
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: Simple x-score & clip_onzone = False 
+Runtime: 1241.0873871000003
+Initial state: [ 7.         -0.87117525]
+Probability: 0.05444019187873446 +/- 0.0009109319258917841
+Iterations: 278.45 +/- 1.6375527311718607
+Transitions: 9960.05 +/- 29.699326591692277
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: Simple x-score & clip_onzone = False 
+Runtime: 785.9743445999993
+Initial state: [10.         -0.78648254]
+Probability: 0.12895285246825997 +/- 0.00225336814025318
+Iterations: 194.9 +/- 1.4473205733717955
+Transitions: 9938.6 +/- 33.9215813931268
+
+
+
+
+

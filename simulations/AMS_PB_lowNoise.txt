@@ -1,0 +1,32 @@
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: PB-score (DL=0.7) & clip_onzone = False 
+Runtime: 2818.185920099997
+Initial state: [ 2.         -0.96853005]
+Probability: 0.0037804395787928067 +/- 7.814052561354673e-05
+Iterations: 554.55 +/- 2.0894471693929497
+Transitions: 9953.1 +/- 31.635922286972576
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: PB-score (DL=0.7) & clip_onzone = False 
+Runtime: 2206.400544199998
+Initial state: [ 4.         -0.93351693]
+Probability: 0.014925683079740858 +/- 0.0003333972458041246
+Iterations: 417.8 +/- 2.2384204957490614
+Transitions: 9941.45 +/- 33.429383545176634
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: PB-score (DL=0.7) & clip_onzone = False 
+Runtime: 1323.6468781000003
+Initial state: [ 7.         -0.87117525]
+Probability: 0.06304426414404299 +/- 0.0010515231051512243
+Iterations: 274.55 +/- 1.731290969494334
+Transitions: 9952.85 +/- 30.50672919727366
+
+Model: g=0.02, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: PB-score (DL=0.7) & clip_onzone = False 
+Runtime: 823.8261490000004
+Initial state: [10.         -0.78648254]
+Probability: 0.14404643564904546 +/- 0.001707338617603302
+Iterations: 192.3 +/- 1.1742858972247996
+Transitions: 9950.1 +/- 29.6237813429115

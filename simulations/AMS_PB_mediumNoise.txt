@@ -1,0 +1,32 @@
+
+Model: g=0.05, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: PB-score with decay length = 1.5 & clip_onzone = False 
+Runtime: 3195.384802899789
+Initial state: [ 2.         -0.96853005]
+Probability: 1.6797612889334633e-05 +/- 5.823454488720352e-07
+Iterations: 1093.55 +/- 3.486439897358728
+Transitions: 9957.4 +/- 26.79827174317502
+
+Model: g=0.05, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: PB-score with decay length = 1.5 & clip_onzone = False 
+Runtime: 2780.060423700139
+Initial state: [ 4.         -0.93351693]
+Probability: 0.00020464495956829627 +/- 7.741896527675692e-06
+Iterations: 844.8 +/- 3.7077443845352436
+Transitions: 9956.35 +/- 26.06929026147129
+
+Model: g=0.05, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: PB-score with decay length = 1.5 & clip_onzone = False 
+Runtime: 1998.9120913001243
+Initial state: [ 7.         -0.87117525]
+Probability: 0.0037684051467608364 +/- 9.438435372971723e-05
+Iterations: 554.9 +/- 2.5526044491233284
+Transitions: 9955.6 +/- 30.6704040438095
+
+Model: g=0.05, mu=0.03, runs=20, N_traj=10000, nc=100 
+Score function: Class: PB-score with decay length = 1.5 & clip_onzone = False 
+Runtime: 1225.0478129999246
+Initial state: [10.         -0.78648254]
+Probability: 0.026478060815142822 +/- 0.0005902842301360432
+Iterations: 360.85 +/- 2.3457688673327066
+Transitions: 9950.3 +/- 26.378021153983482

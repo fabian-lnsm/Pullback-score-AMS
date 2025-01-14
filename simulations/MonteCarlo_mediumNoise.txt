@@ -1,0 +1,29 @@
+		
+Model: g=0.05, mu=0.03, runs=20
+Runtime: 2544.7669142000086
+Initial state: [ 2.         -0.96853005]
+Probability: 1.424138741614225e-05 +/- 2.9374101595729764e-06
+Simulated traj: 2240000.0 +/- 422274.542772453
+Transitions: 30.8 +/- 1.1964860832322375
+
+Model: g=0.05, mu=0.03, runs=20
+Runtime: 265.9453502999968
+Initial state: [ 4.         -0.93351693]
+Probability: 0.00017725000000000003 +/- 2.6503199630295113e-05
+Simulated traj: 210000.0 +/- 30779.350562554624
+Transitions: 36.85 +/- 4.976523834332979
+
+Model: g=0.05, mu=0.03, runs=20
+Runtime: 107.09194569999818
+Initial state: [ 7.         -0.87117525]
+Probability: 0.003253 +/- 0.00017284309891374102
+Simulated traj: 100000.0 +/- 0.0
+Transitions: 325.3 +/- 17.284309891374104
+
+Model: g=0.05, mu=0.03, runs=20
+Runtime: 141.934831999999
+Initial state: [10.         -0.78648254]
+Probability: 0.023087999999999997 +/- 0.0005182114991919195
+Simulated traj: 100000.0 +/- 0.0
+Transitions: 2308.8 +/- 51.82114991919195
+
